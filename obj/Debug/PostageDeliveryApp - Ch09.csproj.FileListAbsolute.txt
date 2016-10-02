@@ -1,0 +1,9 @@
+E:\PostageDeliveryApp - Ch09\PostageDeliveryApp - Ch09\bin\Debug\PostageDeliveryApp - Ch09.exe.config
+E:\PostageDeliveryApp - Ch09\PostageDeliveryApp - Ch09\bin\Debug\PostageDeliveryApp - Ch09.exe
+E:\PostageDeliveryApp - Ch09\PostageDeliveryApp - Ch09\bin\Debug\PostageDeliveryApp - Ch09.pdb
+E:\PostageDeliveryApp - Ch09\PostageDeliveryApp - Ch09\obj\Debug\PostageDeliveryApp - Ch09.csprojResolveAssemblyReference.cache
+E:\PostageDeliveryApp - Ch09\PostageDeliveryApp - Ch09\obj\Debug\PostageDeliveryApp___Ch09.Form1.resources
+E:\PostageDeliveryApp - Ch09\PostageDeliveryApp - Ch09\obj\Debug\PostageDeliveryApp___Ch09.Properties.Resources.resources
+E:\PostageDeliveryApp - Ch09\PostageDeliveryApp - Ch09\obj\Debug\PostageDeliveryApp - Ch09.csproj.GenerateResource.Cache
+E:\PostageDeliveryApp - Ch09\PostageDeliveryApp - Ch09\obj\Debug\PostageDeliveryApp - Ch09.exe
+E:\PostageDeliveryApp - Ch09\PostageDeliveryApp - Ch09\obj\Debug\PostageDeliveryApp - Ch09.pdb
